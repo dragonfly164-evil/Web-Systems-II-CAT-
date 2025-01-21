@@ -1,8 +1,8 @@
 --THIS IS THE CODE TO CREATE THE DATABASE TO BE USED
-CREATE DATABASE user_details;
+CREATE DATABASE user_data;
 
 -- Switch to the newly created database
-USE user_details;
+USE user_data;
 
 -- Create the 'users' table
 CREATE TABLE users (
