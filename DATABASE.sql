@@ -1,4 +1,4 @@
--- Create the database
+--THIS IS THE CODE TO CREATE THE DATABASE TO BE USED
 CREATE DATABASE user_details;
 
 -- Switch to the newly created database
