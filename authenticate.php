@@ -2,7 +2,7 @@
 session_start();
 
 $host = 'localhost';
-$dbname = 'user_data';
+$dbname = 'user_details';
 $dbuser = 'root';
 $dbpass = '';
 
